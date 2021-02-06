@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm still thinking about it
 
  🏡 [facebook][facebook]**|**
-🐦 [linkdin][linkdin] **|** 
+ 🐦[linkdin][linkdin] **|** 
 
 @@ -17,13 +17,11 @@
 
