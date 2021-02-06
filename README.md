@@ -14,7 +14,6 @@ Here are some ideas to get you started:
  🏡 [facebook][facebook]**|**
  🐦[linkdin][linkdin] **|** 
 
-@@ -17,13 +17,11 @@
 
 [facebook]: https://www.facebook.com/alin.criste.3
 [linkdin]: https://www.linkedin.com/in/alin-criste-1873b8157/
