@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Java with Android
 - 👯 I’m looking to collaborate on Android Project.
